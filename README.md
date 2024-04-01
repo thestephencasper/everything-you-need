@@ -1,10 +1,10 @@
 # Everything You Need
 
 Contents
-1. [These things are all you need ✅](#these-things-are-all-you-need-✅)
-2. [But watch out! These things are not enough! ☠️](#but-watch-out!-These-things-are-not-enough!-☠️)
-3. [Maybe love was really what you needed all along 🥰](#maybe-love-was-really-what-you-needed-all-along-🥰)
-4. [💔](#💔)
+1. [These things are all you need ✅](https://github.com/thestephencasper/everything-you-need/edit/main/README.md#these-things-are-all-you-need-)
+2. [But watch out! These things are not enough! ☠️](https://github.com/thestephencasper/everything-you-need/edit/main/README.md#maybe-love-was-really-what-you-needed-all-along-)
+3. [Maybe love was really what you needed all along 🥰](https://github.com/thestephencasper/everything-you-need/edit/main/README.md#maybe-love-was-really-what-you-needed-all-along-)
+4. [💔 Or maybe not](https://github.com/thestephencasper/everything-you-need/edit/main/README.md#or-maybe-not-)
 
 ## These things are all you need ✅
 
@@ -1118,7 +1118,7 @@ Contents
 [Love Is All You Need: Lusophone Affective Communities after Freyre](https://link.springer.com/chapter/10.1057/9781137340993_3)
 
 
-## 💔
+## Or maybe not 💔
 
 [Love is not all you need: Income requirement for visa sponsorship of foreign family members](https://link.springer.com/article/10.1007/s41996-018-0022-8)
 
