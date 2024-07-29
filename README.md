@@ -4,7 +4,7 @@ Contents
 1. [These things are all you need ✅](https://github.com/thestephencasper/everything-you-need?tab=readme-ov-file#these-things-are-all-you-need-)
 2. [But watch out! These things are not enough! ☠️](https://github.com/thestephencasper/everything-you-need#but-watch-out-these-things-are-not-enough-%EF%B8%8F)
 3. [Maybe love was really what you needed all along 🥰](https://github.com/thestephencasper/everything-you-need#maybe-love-was-really-what-you-needed-all-along-)
-4. [💔 Or maybe not](https://github.com/thestephencasper/everything-you-need#or-maybe-not-)
+4. [Or maybe not 💔](https://github.com/thestephencasper/everything-you-need#or-maybe-not-)
 
 ## These things are all you need ✅
 
